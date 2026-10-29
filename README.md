@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **game-prototypes**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/stay` 分支；活跃维护请前往 **game-prototypes**。
+> _This repo is archived into game-prototypes; development continues there. Do not commit here._
+
 # Progress Quest 2 — The Progression（Python / Tkinter 移植版）
 
 一个单人进度放置类游戏（Progress Quest 2）的 Python + Tkinter 移植实现。
